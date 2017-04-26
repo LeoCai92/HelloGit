@@ -1,3 +1,3 @@
 # HelloGit
 
-form remote
+push remote
